@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#0476a1"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/right_1"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="2dp"
+        android:layout_weight="1.0"
+        android:background="#b37f01"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="广场_right"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/right_2"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="2dp"
+        android:layout_weight="1.0"
+        android:background="#b37f01"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="游戏_right"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/right_3"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="2dp"
+        android:layout_weight="1.0"
+        android:background="#b37f01"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="资讯_right"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/right_4"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:background="#b37f01"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="我_right"
+        android:textSize="14sp" />
+
+</LinearLayout>

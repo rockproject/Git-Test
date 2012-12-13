@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#0E7601"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:text="广场"
+        android:textSize="14sp"
+    	android:background="#037f01"
+    	android:layout_marginBottom="2dp"
+    	android:padding="20dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:text="游戏"
+        android:textSize="14sp"
+    	android:background="#037f01"
+    	android:layout_marginBottom="2dp"
+    	android:padding="20dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:text="资讯"
+        android:textSize="14sp"
+    	android:background="#037f01"
+    	android:layout_marginBottom="2dp"
+    	android:padding="20dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:text="我"
+        android:textSize="14sp"
+    	android:background="#037f01"
+    	android:padding="20dp" />
+
+</LinearLayout>
