@@ -277,7 +277,7 @@ public class SlidingDrawer extends RelativeLayout implements
 	@Override
 	public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX,
 			float distanceY) {
-		Log.d(TAG, "onScroll pre");
+		Log.d(TAG, "onScroll pre distanceX: " + distanceX);
 
 		if (!isScrollable(e1, e2)) {
 			return true;
