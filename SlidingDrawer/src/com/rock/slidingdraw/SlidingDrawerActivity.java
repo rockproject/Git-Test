@@ -15,6 +15,10 @@ import com.rock.slidingdraw.widget.actionbar.ActionBarSubMenu;
 
 public class SlidingDrawerActivity extends Activity implements OnClickListener {
 	/** Called when the activity is first created. */
+
+	/*
+	 * test again
+	 */
 	private SlidingDrawer slidingDraw;
 	private ActionBarSubMenu subMenu;
 
